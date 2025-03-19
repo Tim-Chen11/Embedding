@@ -1,2 +1,2 @@
 # Embedding
-##OneHot, Word2Vec, FastText
+## OneHot, Word2Vec, FastText
